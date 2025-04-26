@@ -1,0 +1,8 @@
+*-backups/
+*.bak
+*.lck
+*.prl
+*.log
+*.zip
+_pycache_/
+
