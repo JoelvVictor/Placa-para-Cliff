@@ -6355,7 +6355,7 @@
 	)
 	(global_label "D33"
 		(shape input)
-		(at 118.11 182.88 270)
+		(at 118.11 181.61 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6365,7 +6365,7 @@
 		)
 		(uuid "148d1c5a-31d5-4470-8be6-927c4cb1a9b2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.11 189.5542 90)
+			(at 118.11 188.2842 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6595,6 +6595,28 @@
 			)
 		)
 	)
+	(global_label "EN"
+		(shape input)
+		(at 67.31 124.46 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "457a5d8c-8849-4d99-830d-0ead8295d029")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 67.31 129.9247 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 119.38 166.37 180)
@@ -6771,6 +6793,28 @@
 			)
 		)
 	)
+	(global_label "D34"
+		(shape input)
+		(at 97.79 165.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "792dd027-5b49-45cc-9c3e-ab95bc14ca29")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.4642 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "encode1 A"
 		(shape input)
 		(at 67.31 154.94 180)
@@ -6784,6 +6828,28 @@
 		(uuid "79eed112-10e9-488e-923c-aee15c815a1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 54.3463 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VN"
+		(shape input)
+		(at 67.31 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7a2b6cbe-6910-441b-abe1-4173ebd97bb3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.9057 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6861,7 +6927,7 @@
 	)
 	(global_label "TRIG"
 		(shape input)
-		(at 97.79 152.4 0)
+		(at 97.79 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6871,7 +6937,7 @@
 		)
 		(uuid "870de03a-1837-4417-8639-4cc3ef0320bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.8876 152.4 0)
+			(at 104.8876 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7057,6 +7123,28 @@
 			)
 		)
 	)
+	(global_label "D35"
+		(shape input)
+		(at 97.79 162.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a1f726c8-158e-4049-862d-6d122d915577")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.4642 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D4"
 		(shape input)
 		(at 119.38 158.75 180)
@@ -7207,6 +7295,50 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D32"
+		(shape input)
+		(at 97.79 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b57d3868-2d1c-4c7d-a856-151f58922211")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.4642 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D33"
+		(shape input)
+		(at 97.79 160.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b5c54110-8599-4e22-a7cd-5537511b0849")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 104.4642 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7409,6 +7541,28 @@
 			)
 		)
 	)
+	(global_label "VP"
+		(shape input)
+		(at 67.31 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dda0f549-d51d-44b7-84e7-2e73135e1eba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 61.9662 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D23"
 		(shape input)
 		(at 119.38 133.35 180)
@@ -7433,7 +7587,7 @@
 	)
 	(global_label "ECHO"
 		(shape output)
-		(at 97.79 149.86 0)
+		(at 97.79 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7443,7 +7597,7 @@
 		)
 		(uuid "e1ead37b-bf0f-49cd-8730-8d0d80f9a192")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.8552 149.86 0)
+			(at 105.8552 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7812,7 +7966,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 215.9 80.01 0)
 			(effects
 				(font
@@ -8087,7 +8241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 49.2252 64.77 0)
 			(effects
 				(font
@@ -8156,7 +8310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical"
 			(at 232.41 127 0)
 			(effects
 				(font
@@ -8890,6 +9044,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GNDREF")
+		(at 97.79 175.26 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "476a1cf7-7075-42fb-9190-40acc202202a")
+		(property "Reference" "#PWR029"
+			(at 104.14 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 101.6 175.2599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.79 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 97.79 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
+			(at 97.79 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "04dd73fc-15bc-461b-9475-d751c36f9469")
+		)
+		(instances
+			(project "Plaquinha"
+				(path "/8ce5cdcb-de3b-47b0-b048-dbd03e033d8b"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 209.55 69.85 90)
 		(unit 1)
@@ -9144,7 +9365,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm"
 			(at 242.57 60.96 0)
 			(effects
 				(font
@@ -9416,7 +9637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_A-405_P7.62mm_Horizontal"
 			(at 36.83 57.15 0)
 			(effects
 				(font
@@ -9580,7 +9801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_EH_B6B-EH-A_1x06_P2.50mm_Vertical"
 			(at 210.82 127 0)
 			(effects
 				(font
@@ -9659,7 +9880,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 58.42 116.84 0)
 			(effects
 				(font
@@ -10016,7 +10237,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm"
 			(at 118.11 179.705 90)
 			(effects
 				(font
@@ -10154,7 +10375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Radial_D6.3mm_H5.0mm_P2.50mm"
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 73.3552 64.77 0)
 			(effects
 				(font
@@ -10540,7 +10761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 217.17 58.42 0)
 			(effects
 				(font
@@ -10681,7 +10902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 			(at 241.3 82.55 0)
 			(effects
 				(font
@@ -10822,7 +11043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 57.15 86.36 0)
 			(effects
 				(font
@@ -10890,7 +11111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESPFootprint:Module_ESP32_DEVKIT_V1"
+		(property "Footprint" "ESPFootprint:MODULE_ESP32_DEVKIT_V1"
 			(at 82.55 147.32 0)
 			(effects
 				(font
@@ -11446,7 +11667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 58.42 123.19 0)
 			(effects
 				(font
@@ -11936,7 +12157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 53.594 90.424 90)
 			(effects
 				(font
